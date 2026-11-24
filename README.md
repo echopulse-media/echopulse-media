@@ -37,6 +37,8 @@ $299 two-week Pilot; monthly plans from $399; no long contracts.
 - Website: https://echopulse.media
 - Email: lakshya@echopulse.media
 - LinkedIn: https://www.linkedin.com/company/echopulse-media
-- Founder: Lakshya Soni — https://www.linkedin.com/in/lakshyasoni/
+- Founder: Lakshya Soni
+- Founder LinkedIn: https://www.linkedin.com/in/lakshyasoni/
 - YouTube: https://www.youtube.com/@EchoPulseGlobal
-- Location: Bhopal, India — serving the US, UK, Canada, Australia and Western Europe
+- Location: Bhopal, India
+- Serves: US, UK, Canada, Australia, Western Europe
